@@ -1,0 +1,41 @@
+Arbat Street, house 15, apt. 1|75|2|2000|Primary|yes|
+Profsoyuznaya Street, house 25, apt. 2|85|3|1800|Primary|no|
+Leningradsky Prospekt, house 10, apt. 3|65|1|2500|Primary|yes|
+Taganskaya Street, house 40, apt. 4|92|4|2200|Secondary|2005|2|no|
+Presnenskaya Embankment, house 8, apt. 5|80|2|1900|Primary|no|
+Tverskaya Street, house 17, apt. 6|70|3|2100|Secondary|1998|1|yes|
+Kutuzovsky Prospekt, house 23, apt. 7|85|2|2300|Primary|yes|
+Projected passage No. 4062, house 5, apt. 8|95|4|2000|Primary|yes|
+Arbat Alley, house 12, apt. 9|72|3|2100|Secondary|2003|1|no|
+Novinsky Boulevard, house 20, apt. 10|78|2|1800|Primary|no|
+Maly Gnezdnikovsky Lane, house 7, apt. 11|68|1|2400|Primary|yes|
+Bolshoy Spasoglinishchevsky Lane, house 6, apt. 12|88|3|1950|Secondary|2001|2|yes|
+Pretchistenskaya Embankment, house 32, apt. 13|82|2|2200|Primary|no|
+Nikulinskaya Street, house 14, apt. 14|75|3|2050|Primary|yes|
+Sretensky Boulevard, house 7, apt. 15|92|4|1980|Secondary|2007|1|no|
+Kamergersky Lane, house 5, apt. 16|79|2|1900|Primary|yes|
+Taganskaya Street, house 28, apt. 17|71|3|2150|Primary|no|
+Ostozhenka, house 19, apt. 18|84|1|2300|Primary|yes|
+Projected passage No. 751, house 12, apt. 19|97|4|2000|Secondary|2004|2|yes|
+Pyatnitskaya Street, house 24, apt. 20|74|2|1800|Primary|no|
+Ostroumova Street, house 3, apt. 21|66|1|2400|Primary|yes|
+Volkhonka, house 10, apt. 22|89|3|1950|Secondary|2002|1|no|
+Mokhovaya Street, house 18, apt. 23|83|2|2200|Primary|no|
+Novokuznetskaya Street, house 30, apt. 24|76|3|2050|Primary|yes|
+Manezhnaya Square, house 8, apt. 25|91|4|1980|Secondary|2006|1|no|
+Kutuzovsky Prospekt, house 18, apt. 26|80|2|1900|Primary|yes|
+Solyansky passage, house 21, apt. 27|70|3|2150|Primary|no|
+Kosmodamianskaya Embankment, house 5, apt. 28|85|1|2300|Primary|yes|
+Sushchevskaya Street, house 22, apt. 29|96|4|2000|Secondary|2003|2|yes|
+Petrovka, house 15, apt. 30|73|2|1800|Primary|no|
+Mokhovaya Street, house 8, apt. 31|67|1|2400|Primary|yes|
+Trubnaya Street, house 27, apt. 32|87|3|1950|Secondary|2000|1|no|
+Povarskaya Street, house 40, apt. 33|81|2|2200|Primary|no|
+Gruzinsky Lane, house 10, apt. 34|74|3|2050|Primary|yes|
+Zhitnaya Street, house 14, apt. 35|93|4|1980|Secondary|2008|1|no|
+Bolshaya Dmitrovka, house 25, apt. 36|78|2|1900|Primary|yes|
+Red Square, house 3, apt. 37|72|3|2150|Primary|no|
+Arbat Alley, house 14, apt. 38|86|1|2300|Primary|yes|
+Sheremetevskaya Street, house 30, apt. 39|98|4|2000|Secondary|2005|2|yes|
+Projected passage No. 938, house 21, apt. 40|77|3|2150|Secondary|2002|1|yes|
+
